@@ -1,5 +1,3 @@
-![img_1.png](img_1.png)
-
 <h2 style="color: rgb(200, 200, 200);">i'm a d0xb1n4 ;)</h2>
 
 <p style="color: rgb(200, 200, 200);"> python web dev (dj + DRF)</p>
